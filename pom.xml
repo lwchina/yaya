@@ -9,8 +9,8 @@
     <version>1.0-SNAPSHOT</version>
   <dependencies>
       <dependency>
-          <groupId>111</groupId>
-          <artifactId>111</artifactId>
+          <groupId>1122</groupId>
+          <artifactId>1122</artifactId>
       </dependency>
   </dependencies>
 
