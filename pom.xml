@@ -11,6 +11,7 @@
       <dependency>
           <groupId>1122</groupId>
           <artifactId>1122</artifactId>
+          <version>22</version>
       </dependency>
   </dependencies>
 
